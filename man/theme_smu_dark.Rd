@@ -4,7 +4,7 @@
 \alias{theme_smu_dark}
 \title{SMU dark ggplot2 theme}
 \usage{
-theme_smu_dark()
+theme_smu_dark(...)
 }
 \description{
 SMU dark ggplot2 theme

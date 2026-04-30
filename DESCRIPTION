@@ -10,6 +10,8 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Imports: 
-    ggplot2
+    ggplot2,
+    showtext,
+    sysfonts
 URL: https://github.com/KeziahVickraman/smutools
 BugReports: https://github.com/KeziahVickraman/smutools/issues

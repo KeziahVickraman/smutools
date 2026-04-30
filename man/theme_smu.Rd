@@ -4,7 +4,7 @@
 \alias{theme_smu}
 \title{SMU ggplot2 theme}
 \usage{
-theme_smu()
+theme_smu(...)
 }
 \arguments{
 \item{...}{Arguments passed to \code{ggplot2::theme_minimal()}}
