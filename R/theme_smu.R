@@ -2,12 +2,6 @@
 ###         Creating Personalised Themes (SMU)                  ###
 ###-------------------------------------------------------------###
 
-# load google font once when package loads
-.onLoad <- function(libname, pkgname) {
-  sysfonts::font_add_google("Source Sans 3", "source_sans")
-  showtext::showtext_auto()
-}
-
 #' SMU ggplot2 theme
 #'
 #' A minimal theme using SMU brand colours (crimson \code{#C41230}).
